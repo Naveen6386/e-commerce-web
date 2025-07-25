@@ -35,12 +35,13 @@ header {
 
 nav {
   float: right;
+  /* margin-left: auto; */
 }
 
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 30px;
+  gap: 29px;
   /* justify-content: space-around; */
 }
 
